@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AirooSs/AirooSs/main/imagen_a_añadir" width="100%" alt="Banner">
-
 # 👋 ¡Hola! Soy Francisco
 ### Fullstack Developer | Especialista en Angular & Java Spring Boot
 
@@ -44,9 +42,9 @@ Soy un desarrollador apasionado por el ecosistema de **Java** y la agilidad de *
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de AirooSs" />
+<img src="https://github-readme-stats.vercel.app/api?username=AirooSs&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de AirooSs" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirooSs&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
