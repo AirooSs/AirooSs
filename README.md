@@ -64,4 +64,4 @@
 
 <div align="center">
   <sub>Hecho por Francisco</sub>
-</div><img width="1030" height="260" alt="image" src="https://github.com/user-attachments/assets/61112175-1c11-4d5f-a183-4e7b91443535" />
+</div>
