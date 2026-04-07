@@ -51,14 +51,32 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AirooSs&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de AirooSs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirooSs&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 API Gestión de Productos</h3>
+      <p>Aplicación fullstack para la gestión de un catálogo de productos. Frontend construido con <strong>Angular</strong> y <strong>Bootstrap</strong>, consumiendo una API REST para operaciones CRUD completas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/AirooSs/API-Productos">Ver repositorio →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Landing Page Personal</h3>
+      <p>Portfolio web personal desarrollado con <strong>HTML5</strong> y <strong>CSS3</strong> puro. Incluye secciones de presentación, proyectos y contacto, desplegada mediante <strong>GitHub Pages</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
+      </p>
+      <a href="https://github.com/AirooSs/Landing_Page_Soria_Ensayo">Ver repositorio →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
