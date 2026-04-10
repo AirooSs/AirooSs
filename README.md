@@ -24,7 +24,7 @@
 
 ¡Bienvenido a mi perfil! Soy un apasionado del desarrollo de software con un enfoque especial en el ecosistema **Java** y la potencia de **Angular**. Intento crear aplicaciones que no solo funcionen, sino que sean escalables y mantengan un código limpio.
 
-- 🔭 **Actualmente trabajando en:** Perfeccionar arquitecturas con Spring Boot y microservicios.
+- 🔭 **Actualmente trabajando en:** Perfeccionar mis habilidades con Spring Boot y Angular.
 - ⚡ **Stack principal:** Angular, Java, Spring Boot y MySQL.
 - 🎓 **Formación:** Aprendizaje continuo en creación web FullStack.
 
