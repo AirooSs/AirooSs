@@ -91,7 +91,7 @@
      </td>
     <td width="50%" valign="top">
       <h3>👕 TFC Tienda de Ropa</h3>
-      <p><strong>Tienda online de ropa</strong> – Proyecto TFC grupal. Plataforma completa de e-commerce con Angular en frontend, backend Java Spring Boot y MySQL. Incluye gestión de productos, carrito de compra, pasarela de pago y panel de administración por roles. Colaboradores: Alberto Balaguer y Zaira González.</p>
+      <p><strong>Tienda online de ropa</strong> – Proyecto TFC grupal. Plataforma completa de e-commerce con Angular en frontend, backend Java Spring Boot y MySQL. Incluye gestión de productos, carrito de compra y pasarela de pago, administración mediante Swagger</p>
       <p>
         <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
