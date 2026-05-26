@@ -57,7 +57,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Reto Transversal UNIR</h3>
-      <p><strong>Página web de reservas para conciertos</strong> – Proyecto grupal para UNIR. Aplicación fullstack que permite gestionar eventos, realizar reservas y administrar usuarios. Frontend en Angular con Bootstrap, backend con Java Spring Boot y persistencia en MySQL.</p>
+      <p><strong>Página web de reservas para conciertos</strong> – Proyecto grupal para UNIR. Aplicación fullstack que permite gestionar eventos, realizar reservas y administrar usuarios. Frontend en Angular, backend con Java Spring Boot y persistencia en MySQL.</p>
       <p>
         <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
