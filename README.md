@@ -90,11 +90,6 @@
       </p>
       <a href="https://github.com/AirooSs/Landing_Page_Soria_Ensayo">Ver repositorio →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📱 Próximo proyecto</h3>
-      <p>Espacio reservado para tu próximo desarrollo. ¿Backend con Spring Cloud? ¿App móvil con Ionic? ¿Microservicios? El límite es tu imaginación.</p>
-      <a href="#">Próximamente</a>
-    </td>
   </tr>
 </table>
 
