@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://www.soriaunir.com/home">Ver página web →</a>
+      <a href="https://github.com/AirooSs/Reto_Transversal_UNIR">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 API Gestión de Productos</h3>
@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <a href="https://github.com/AirooSs/Portfolio">Ver repositorio →</a>
+      <a href="https://www.soriaunir.com/home">Ver página web →</a>
      </td>
     <td width="50%" valign="top">
       <h3>👕 TFC Tienda de Ropa</h3>
