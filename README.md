@@ -80,8 +80,8 @@
    </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Landing Page Personal</h3>
-      <p>Portfolio web personal desarrollado con <strong>HTML5</strong> y <strong>CSS3</strong> puro. Incluye secciones de presentación, proyectos y contacto, desplegada mediante <strong>GitHub Pages</strong>.</p>
+      <h3>🌐 Portafolio Personal</h3>
+      <p>Portfolio web personal desarrollado con <strong>HTML5, CSS</strong> y <strong>BootStrap</strong> puro. Incluye secciones de presentación, proyectos y contacto, desplegada mediante <strong>IONOS</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
