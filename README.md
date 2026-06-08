@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://github.com/AirooSs/Reto_Transversal_UNIR">Ver repositorio →</a>
+      <a href="https://www.soriaunir.com/home">Ver página web →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 API Gestión de Productos</h3>
