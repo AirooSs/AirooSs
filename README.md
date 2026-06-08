@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <a href="https://github.com/AirooSs/Landing_Page_Soria_Ensayo">Ver repositorio →</a>
+      <a href="https://github.com/AirooSs/Portfolio">Ver repositorio →</a>
      </td>
     <td width="50%" valign="top">
       <h3>👕 TFC Tienda de Ropa</h3>
