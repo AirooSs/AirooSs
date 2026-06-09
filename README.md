@@ -102,8 +102,23 @@
       <a href="https://github.com/AirooSs/TFC-Tienda-de-ropa">Ver repositorio →</a>
      </td>
    </tr>
+  
 </table>
-
+<tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ Gestion de Tareas - API Hexagonal</h3>
+      <p>API REST de gestion de tareas construida con <strong>Arquitectura Hexagonal y DDD</strong>. Incluye usuarios, proyectos y tareas con casos de uso independientes, tests unitarios con JUnit y Mockito, validaciones con Bean Validation y documentacion con Swagger.</p>
+      <p>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black" />
+      </p>
+      <a href="https://github.com/AirooSs/Gestion-tareas-hexagonal">Ver repositorio →</a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 ---
 
 <div align="center">
