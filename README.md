@@ -31,7 +31,7 @@ Desarrollador Full Stack recién titulado en DAW, con experiencia real en empres
 - 🔭 **Buscando** mi primera oportunidad profesional como desarrollador
 - 💼 **Prácticas en** Mimesis Lab (Dic 2025 – May 2026) · Angular, NestJS, Azure OpenAI, CI/CD
 - ⚡ **Stack principal:** Angular · Java Spring Boot · TypeScript · PostgreSQL · MySQL
-- 🌐 **Portfolio:** [soriaunir.com](https://soriaunir.com)
+- 🌐 **Portfolio:** [Portfolio personal](https://fransoria-portfolio.vercel.app/)
 
 ---
 
