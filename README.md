@@ -26,6 +26,8 @@ Mi principal interés es el desarrollo backend con Java y Spring Boot, aunque ta
 - Buscando mi primera oportunidad profesional como desarrollador.
 - Disponibilidad presencial, híbrida y remota.
 
+---
+
 ## Stack tecnológico
 
 <div align="center">
@@ -47,8 +49,8 @@ Mi principal interés es el desarrollo backend con Java y Spring Boot, aunque ta
 <tr>
 <td align="center"><b>Backend</b></td>
 <td align="center">
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>
-<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring Boot"/></a>
 <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" width="42" alt="Hibernate"/></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/></a>
 <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="42" alt="NestJS"/></a>
@@ -91,7 +93,7 @@ Mi principal interés es el desarrollo backend con Java y Spring Boot, aunque ta
 
 ---
 
-## Proyecto destacado
+## ⭐ Proyecto destacado
 
 <div align="center">
 
@@ -99,23 +101,25 @@ Mi principal interés es el desarrollo backend con Java y Spring Boot, aunque ta
 
 **Arquitectura Hexagonal · Domain-Driven Design**
 
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>
-<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring Boot"/></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring Boot"/></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/></a>
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"/></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/></a>
 
-<br>
+<br><br>
 
-<a href="https://gestion-tareas-fullstack.vercel.app/"><img src="https://img.shields.io/badge/▶_PROBAR_DEMO-16A34A?style=for-the-badge&logoColor=white" height="38" alt="Probar demo"/></a>
+<a href="https://gestion-tareas-fullstack.vercel.app/"><img src="https://img.shields.io/badge/PROBAR_DEMO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Probar demo"/></a>
 &nbsp;
 <a href="https://github.com/AirooSs/gestion-tareas-fullstack"><img src="https://img.shields.io/badge/Código_fuente-24292F?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Código fuente"/></a>
 
 </div>
 
-Aplicación Full Stack para la gestión de proyectos y tareas, desarrollada desde el diseño de la arquitectura hasta su despliegue en la nube.
+Aplicación Full Stack para la gestión de proyectos y tareas, desarrollada desde el diseño inicial del backend hasta la implementación del frontend y su despliegue en la nube.
+
+El proyecto nace como una API REST centrada en Arquitectura Hexagonal y DDD, evolucionando hasta convertirse en una aplicación completa, con seguridad, persistencia, pruebas automatizadas y una demo pública.
 
 <table>
 <tr>
@@ -152,7 +156,9 @@ Aplicación Full Stack para la gestión de proyectos y tareas, desarrollada desd
 
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel"/></a>
 <a href="https://render.com/"><img src="https://img.shields.io/badge/Backend-Render-6366F1?style=flat-square&logo=render" alt="Render"/></a>
-<a href="https://neon.tech/"><img src="https://img.shields.io/badge/Database-Neon-00E599?style=flat-square&logo=neon&logoColor=white" alt="Neon"/></a>
+<a href="https://neon.tech/"><img src="https://img.shields.io/badge/Database-Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon"/></a>
+
+<br>
 
 <sub>El primer acceso a la demo puede tardar debido al alojamiento gratuito.</sub>
 
@@ -173,7 +179,7 @@ Plataforma clínica de investigación psicológica.
 - Integración de un chat de inteligencia artificial junto al reproductor de vídeo.
 - Implementación de funcionalidades de transcripción.
 - Diseño de interfaces y componentes web.
-- Comunicación frontend-backend y persistencia con PostgreSQL.
+- Comunicación frontend-backend y trabajo con PostgreSQL.
 - Trabajo con Azure OpenAI y entornos de despliegue en Azure.
 
 ---
@@ -183,37 +189,48 @@ Plataforma clínica de investigación psicológica.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Gestión de tareas · Backend</h3>
-<p>Versión original del gestor de tareas, centrada en el desarrollo backend mediante Arquitectura Hexagonal y DDD.</p>
-<p>Java · Spring Boot · PostgreSQL · JUnit</p>
-<a href="https://github.com/AirooSs/Gestion-tareas-hexagonal">Ver repositorio →</a>
-</td>
-<td width="50%" valign="top">
 <h3>Reto Transversal UNIR</h3>
 <p>Plataforma Full Stack de reservas para conciertos. Gestión de eventos, reservas y usuarios.</p>
-<p>Angular · Java · Spring Boot · MySQL</p>
+<p>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="32" alt="Angular"/></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="32" alt="Java"/></a>
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="32" alt="Spring Boot"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="32" alt="MySQL"/></a>
+</p>
 <a href="https://github.com/AirooSs/Reto_Transversal_UNIR">Ver repositorio →</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>TFC · Tienda de ropa</h3>
 <p>Proyecto grupal de comercio electrónico con carrito de compra, gestión de productos y API REST.</p>
-<p>Angular · Spring Boot · MySQL · Swagger</p>
+<p>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="32" alt="Angular"/></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="32" alt="Java"/></a>
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="32" alt="Spring Boot"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="32" alt="MySQL"/></a>
+</p>
 <a href="https://github.com/AirooSs/TFC-Tienda-de-ropa">Ver repositorio →</a>
-</td>
-<td width="50%" valign="top">
-<h3>API Gestión de productos</h3>
-<p>Aplicación Full Stack para la gestión de un catálogo de productos con operaciones CRUD.</p>
-<p>Angular · TypeScript · Bootstrap · REST</p>
-<a href="https://github.com/AirooSs/API-PRODUCTOS">Ver repositorio →</a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
+<h3>API Gestión de productos</h3>
+<p>Aplicación Full Stack para la gestión de un catálogo de productos con operaciones CRUD mediante una API REST.</p>
+<p>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="32" alt="Angular"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="32" alt="TypeScript"/></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="32" alt="Bootstrap"/></a>
+</p>
+<a href="https://github.com/AirooSs/API-PRODUCTOS">Ver repositorio →</a>
+</td>
+<td width="50%" valign="top">
 <h3>Portfolio personal</h3>
-<p>Web profesional con diseño responsive, experiencia, formación y proyectos.</p>
-<p>Angular · TypeScript · CSS · Vercel</p>
+<p>Web profesional con diseño responsive, animaciones y una selección de mis proyectos, experiencia y formación.</p>
+<p>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="32" alt="Angular"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="32" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="32" alt="CSS"/></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="32" alt="Vercel"/></a>
+</p>
 <a href="https://fransoria-portfolio.vercel.app/">Visitar portfolio →</a>
 </td>
 </tr>
@@ -225,7 +242,7 @@ Plataforma clínica de investigación psicológica.
 
 <div align="center">
 
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
 <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/></a>
 <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="48" alt="Apache Kafka"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/></a>
